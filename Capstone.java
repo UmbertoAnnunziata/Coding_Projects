@@ -12,7 +12,7 @@ Written in Java by Umberto Annunziata
 8/22-11/22
  */
 @SuppressWarnings("ALL")
-public class Main {
+public class Capstone {
 
     public static void main(String[] args) throws IOException {
         //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
